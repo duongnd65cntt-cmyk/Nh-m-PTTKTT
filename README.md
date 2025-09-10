@@ -8,10 +8,10 @@ Dự án này được thực hiện với mục tiêu xây dựng một **hệ 
 - Tối ưu hóa việc sử dụng cơ sở vật chất
 
 ## 👨‍💻 Thành viên nhóm
-Trương Thị Mỹ Linh -6513773
-Hồ Văn Hiếu-65130983
-Nguyễn Huy Đạt-65130410
-Nguyễn Đại Dương-65130591
+Trương Thị Mỹ Linh-6513773
+ Hồ Văn Hiếu-65130983
+ Nguyễn Huy Đạt-65130410
+ Nguyễn Đại Dương-65130591
 
 
 ## 🎯 Mục tiêu chính
