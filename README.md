@@ -20,7 +20,7 @@ Trương Thị Mỹ Linh-6513773
 - Quản lý dữ liệu tập trung, minh bạch và dễ dàng truy cập.  
 
 ## 🛠️ Công nghệ dự kiến sử dụng
-- **Ngôn ngữ lập trình:** Java / Python / C# (tùy nhóm lựa chọn)  
+- **Ngôn ngữ lập trình:** Java / Python / C#   
 - **Cơ sở dữ liệu:** MySQL / SQL Server  
 - **Giao diện:** HTML/CSS/JavaScript hoặc ứng dụng Desktop  
 - **Quản lý phiên bản:** GitHub  
